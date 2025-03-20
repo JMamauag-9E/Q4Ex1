@@ -1,0 +1,14 @@
+body {
+	background-color: lightskyblue;
+	font-family: sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+.container {
+	background-color: #2454ad;
+	color: white;
+	border: 5px solid darkblue;
+}
